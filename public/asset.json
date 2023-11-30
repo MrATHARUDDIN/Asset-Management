@@ -1,0 +1,17 @@
+[
+  {
+    "pkgnumber": 1,
+    "price": 5,
+    "Employee": 5
+  },
+  {
+    "pkgnumber": 2,
+    "price": 8,
+    "Employee": 10
+  },
+  {
+    "pkgnumber": 3,
+    "price": 25,
+    "Employee": 20
+  }
+]
