@@ -1,8 +1,29 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# My Website name : Asset Management
 
-Currently, two official plugins are available:
+My website is a Asset Management Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+ My website link : https://asset-management-a12.web.app/
+
+# My Website 
+
+- Full responsive  website for all device
+- User Friendly Website and Good looking Ui
+- You can find more Information about Food and Beverage
+- Email and password based Authentication Web
+- There is 2 type of Authentication in my website
+    Admin and empolyee.
+- All data is Dynamic and come from Data base
+- My website has admin router and  empolyee router
+
+# Admin/Boss Feature
+- Admin Can add Asset Update Asset and Delete   Asset of his own Company.
+- Admin Can see the request of Asset and Aprove or reject the request.
+- Admin Can Edit his Company empolyee list and add or remove some empolyee.
+
+# Empolyee
+- Company Empolyee Can Request For the Asset He Can Cancel his Request and do some custom request what's not in list.
+- Empolyee can see There Team Member and See There
+birthday.
+
