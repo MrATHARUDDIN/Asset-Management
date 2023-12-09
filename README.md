@@ -4,8 +4,8 @@
 My website is a Asset Management Website
 
 
- My website link : https://asset-management-a12.web.app/
- Server side repo : https://github.com/MrATHARUDDIN/Asset-Management-Server
+ - My website link : https://asset-management-a12.web.app/
+ - Server side repo : https://github.com/MrATHARUDDIN/Asset-Management-Server
 
 # My Website 
 
